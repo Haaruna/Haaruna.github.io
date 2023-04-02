@@ -7,11 +7,11 @@ body {
 }
 @font-face{
 	font-family: "deux";
-	src: url("../font/canne.otf");
+	src: url("../font/text.ttf");
 }
 @font-face{
 font-family: "quatre";
-	src: url("../font/quatre.ttf");
+	src: url("../font/text.ttf");
 }
 *{
 	box-sizing: border-box;
